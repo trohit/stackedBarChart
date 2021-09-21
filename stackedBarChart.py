@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # a stacked bar plot with errorbars
 import numpy as np
 import matplotlib.pyplot as plt
